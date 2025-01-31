@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Mr salo!
-- 👀 I’m interested in salo (joke)
+- 👋 Hi, I’m normis
+- 👀 I’m interested in normis.com 
 - 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on ... idk
-- 📫 my tg is @Mr_salo1
+- 💞️ I’m NORMIS
+- 📫 my tg is @Ms_fishy
 - 😄 Pronouns: idk
-- ⚡ Fun fact: IM SALO
+- ⚡ Fun fact: normisi
 
 <!---
 Mrsalo11/Mrsalo11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
